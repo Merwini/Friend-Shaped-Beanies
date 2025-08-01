@@ -34,6 +34,7 @@
 	<smeltable>false</smeltable>
 	<comps Inherit="false">
 		<li Class="CompProperties_Forbiddable"/>
+		<li Class="CompProperties_Styleable" />
 	</comps>
 </ThingDef>
 
@@ -84,6 +85,7 @@
 	</apparel>
 	<comps Inherit="false">
 		<li Class="CompProperties_Forbiddable"/>
+		<li Class="CompProperties_Styleable" />
 	</comps>
 </ThingDef>
 
